@@ -82,6 +82,20 @@
 
 ---
 
+## 🗓️ My GitHub Journey (Live)
+
+<div align="center">
+
+![Joined GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FYOUR_GITHUB_USERNAME&query=%24.created_at&label=Joined%20GitHub&color=2E8B57&style=for-the-badge&logo=github)
+![Last Contribution](https://img.shields.io/github/last-commit/YOUR_GITHUB_USERNAME/YOUR_MAIN_REPO?label=Last%20Contribution&color=A8E063&labelColor=0B3D2E&style=for-the-badge&logo=git&logoColor=white)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FYOUR_GITHUB_USERNAME&query=%24.public_repos&label=Public%20Repos&color=2E8B57&style=for-the-badge&logo=bookstack&logoColor=white)
+
+</div>
+
+> 🔄 These badges refresh automatically from GitHub, so no manual date updates are needed. The streak card above also shows your first-contribution date and current streak dates live.
+
+---
+
 ## 📫 Connect With Me
 
 <div align="center">
