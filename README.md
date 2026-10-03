@@ -11,7 +11,7 @@
 
 ![Role](https://img.shields.io/badge/B.Tech-AI%2FML_Student-0B3D2E?style=for-the-badge&logo=tensorflow&logoColor=A8E063)
 ![AgriVertex](https://img.shields.io/badge/AgriVertex-Agri--Tech-2E8B57?style=for-the-badge&logo=leaflet&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=2E8B57&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=AgriVertex&label=Profile%20Views&color=2E8B57&style=for-the-badge)
 
 </div>
 
@@ -84,12 +84,12 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=0d1f17&title_color=A8E063&icon_color=2E8B57&text_color=ffffff&border_color=1e4d36" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=0d1f17&title_color=A8E063&text_color=ffffff&border_color=1e4d36" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AgriVertex&show_icons=true&bg_color=0d1f17&title_color=A8E063&icon_color=2E8B57&text_color=ffffff&border_color=1e4d36" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgriVertex&layout=compact&bg_color=0d1f17&title_color=A8E063&text_color=ffffff&border_color=1e4d36" alt="Top Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=dark&background=0d1f17&ring=2E8B57&fire=A8E063&currStreakLabel=A8E063&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=9e9e9e&border=1e4d36" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=AgriVertex&theme=dark&background=0d1f17&ring=2E8B57&fire=A8E063&currStreakLabel=A8E063&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=9e9e9e&border=1e4d36" alt="GitHub Streak" />
 
 </div>
 
@@ -99,9 +99,9 @@
 
 <div align="center">
 
-![Joined GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FYOUR_GITHUB_USERNAME&query=%24.created_at&label=Joined%20GitHub&color=2E8B57&style=for-the-badge&logo=github)
-![Last Contribution](https://img.shields.io/github/last-commit/YOUR_GITHUB_USERNAME/AgriVertex?label=Last%20Contribution&color=A8E063&labelColor=0B3D2E&style=for-the-badge&logo=git&logoColor=white)
-![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FYOUR_GITHUB_USERNAME&query=%24.public_repos&label=Public%20Repos&color=2E8B57&style=for-the-badge&logo=bookstack&logoColor=white)
+![Joined GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAgriVertex&query=%24.created_at&label=Joined%20GitHub&color=2E8B57&style=for-the-badge&logo=github)
+![Last Contribution](https://img.shields.io/github/last-commit/AgriVertex/AgriVertex?label=Last%20Contribution&color=A8E063&labelColor=0B3D2E&style=for-the-badge&logo=git&logoColor=white)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAgriVertex&query=%24.public_repos&label=Public%20Repos&color=2E8B57&style=for-the-badge&logo=bookstack&logoColor=white)
 
 </div>
 
@@ -113,7 +113,7 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AgriVertex)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankaj-kumar-799235400)
 
 </div>
