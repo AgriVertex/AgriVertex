@@ -87,7 +87,7 @@
 <div align="center">
 
 ![Joined GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FYOUR_GITHUB_USERNAME&query=%24.created_at&label=Joined%20GitHub&color=2E8B57&style=for-the-badge&logo=github)
-![Last Contribution](https://img.shields.io/github/last-commit/YOUR_GITHUB_USERNAME/YOUR_MAIN_REPO?label=Last%20Contribution&color=A8E063&labelColor=0B3D2E&style=for-the-badge&logo=git&logoColor=white)
+![Last Contribution](https://img.shields.io/github/last-commit/YOUR_GITHUB_USERNAME/AgriVertex?label=Last%20Contribution&color=A8E063&labelColor=0B3D2E&style=for-the-badge&logo=git&logoColor=white)
 ![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FYOUR_GITHUB_USERNAME&query=%24.public_repos&label=Public%20Repos&color=2E8B57&style=for-the-badge&logo=bookstack&logoColor=white)
 
 </div>
@@ -101,7 +101,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankaj-kumar-799235400)
 
 </div>
 
